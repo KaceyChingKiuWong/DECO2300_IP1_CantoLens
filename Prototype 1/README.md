@@ -1,3 +1,2 @@
-# Prototype 1 - Horizontal Unity Prototype
-
-This folder contains your first Unity prototype project files and documentation. 
+# DECO2300_IP1_CantoLens
+IP1 for DECO2300 CantoLens
